@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodDotNet", "PeriodDotNet\PeriodDotNet.csproj", "{3C58731C-79CE-4051-9565-0B64045ECF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{095FF60D-20C9-4414-8640-F03C602AF4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C58731C-79CE-4051-9565-0B64045ECF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C58731C-79CE-4051-9565-0B64045ECF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C58731C-79CE-4051-9565-0B64045ECF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C58731C-79CE-4051-9565-0B64045ECF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095FF60D-20C9-4414-8640-F03C602AF4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095FF60D-20C9-4414-8640-F03C602AF4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095FF60D-20C9-4414-8640-F03C602AF4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095FF60D-20C9-4414-8640-F03C602AF4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
